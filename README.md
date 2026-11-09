@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Shimaa
 
-<!--
-**ShaimaaIsmail27/ShaimaaIsmail27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical and computational engineer, now studying M.Sc. Data Science (AI focus) at FAU Erlangen-Nürnberg.
+I combine 7+ years of tender and cost-estimation experience in MEP projects with Python, data analysis and AI.
 
-Here are some ideas to get you started:
+**Projects**
+- **[llm-doc-assistant](https://github.com/ShaimaaIsmail27/llm-doc-assistant):** local LLM that summarises technical PDFs, extracts key data as JSON and answers questions with page citations
+- **[tender-pricing-dashboard](https://github.com/ShaimaaIsmail27/tender-pricing-dashboard):** Power BI / Power Query / DAX dashboard for MEP tender pricing and project cost controlling (fictional data)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** Python, Excel/VBA, MATLAB, Power Query, Power BI, Git
+
+Interested in combining AI, energy, sustainability and management.
+Based in Erlangen, Germany. German B2, English C1, Arabic native.
